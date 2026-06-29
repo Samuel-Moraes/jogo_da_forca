@@ -7,7 +7,7 @@ def jogar():
 
   letrasAcertadas = inicializaLetrasAcertadas(palavra_secreta)
 
-  # Variaveis para validar se o chute esta ou não corret0
+  # Variaveis para validar se o chute esta ou não correto
   enforcou = False
   acertou = False
     
